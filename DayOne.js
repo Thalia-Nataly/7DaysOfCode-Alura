@@ -18,7 +18,8 @@ if (numeroUm == stringUm) {
     console.log("As variáveis numeroUm e stringUm não tem o mesmo valor");
 }
 
-/* if (COMPARAR O numeroTrinta e a stringTrinta) {
+/* Situação dois:
+if (COMPARAR O numeroTrinta e a stringTrinta) {
   console.log('As variáveis numeroTrinta e stringTrinta tem o mesmo valor e mesmo tipo')
 } else {
   console.log('As variáveis numeroTrinta e stringTrinta não tem o mesmo tipo')
@@ -31,7 +32,8 @@ if (numeroTrinta === stringTrinta) {
     console.log("As variáveis numeroTrinta e stringTrinta não tem o mesmo tipo");
 }
 
-/*if (COMPARAR O numeroDez e a stringDez) {
+/* Situação três:
+if (COMPARAR O numeroDez e a stringDez) {
   console.log('As variáveis numeroDez e stringDez tem o mesmo valor, mas tipos diferentes')
 } else {
   console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
@@ -42,3 +44,4 @@ if (numeroDez == stringDez) {
 } else {
     console.log("As variáveis numeroDez e stringDez não tem o mesmo valor")
 }
+
